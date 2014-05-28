@@ -1,0 +1,25 @@
+<monitor>
+    <name>rss-feed-monitor</name>
+    <type>managed</type>
+    <description>RSS Feed Monitoring Extension</description>
+    <monitor-configuration></monitor-configuration>
+    <monitor-run-task>
+        <execution-style>periodic</execution-style>
+        <execution-frequency-in-seconds>60</execution-frequency-in-seconds>
+        <name>RSS Feed Monitor Run task</name>
+        <display-name>RSS Feed Monitor Run task</display-name>
+        <description>RSS Feed Monitor Run task</description>
+        <type>java</type>
+        <execution-timeout-in-secs>60</execution-timeout-in-secs>
+        
+        <task-arguments>
+        	<argument name="config-file" is-required="true" default-value="monitors/RSSFeedMonitor/config.yaml" />
+        </task-arguments>
+        
+        <java-task>
+            <classpath>rss-feed-monitoring-extension.jar</classpath>
+            <impl-class>com.appdynamics.extensions.feed.FeedMonitor</impl-class>
+        </java-task>
+        
+    </monitor-run-task>
+</monitor>

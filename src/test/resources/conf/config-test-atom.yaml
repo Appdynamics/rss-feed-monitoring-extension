@@ -1,0 +1,6 @@
+subscriptions:
+  - url: "test-atom.xml"
+    displayName: TestAtom
+
+metricPrefix:  "Custom Metrics|RSS Feed|"
+

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	version="2.0">
+	<channel>
+		<title>Engadget RSS Feed</title>
+		<link>http://www.engadget.com</link>
+		<description>Engadget</description>
+		<image>
+			<url>
+				http://www.blogsmithmedia.com/www.engadget.com/media/feedlogo.gif
+			</url>
+			<title>Engadget</title>
+			<link>http://www.engadget.com</link>
+		</image>
+		<language>en-us</language>
+		<copyright>
+			Copyright 2014 AOL Inc. The contents of this feed are available for
+			non-commercial use only.
+		</copyright>
+		<generator>Blogsmith http://www.blogsmith.com/</generator>
+		<item>
+			<title>
+<![CDATA[
+GE helps old wind turbines increase power production by lengthening their rotor blades
+]]>
+			</title>
+			<link>
+				http://www.engadget.com/2014/05/27/ge-wind-turbine-blade-extension/?ncid=rss_truncated
+			</link>
+			<description>
+<![CDATA[
+<img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3825x2585+0+0/resize/630x426!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/adam/6c0a9232957d0da644f4afcb419256b7/157614416_thumbnail.jpeg"/> Building new fleets of windmills isn't the only way to meet increasing demand for breeze-based energy, it seems. General Electric plans to get more renewable energy out of some of its existing turbines by lengthening their blades. You see, shorter...
+]]>
+			</description>
+			<dc:creator>
+<![CDATA[ Michael Gorman ]]>
+			</dc:creator>
+			<pubDate>%s</pubDate>
+			<guid isPermaLink="false">
+				http://www.engadget.com/2014/05/27/ge-wind-turbine-blade-extension/
+			</guid>
+		</item>
+		<item>
+			<title>
+<![CDATA[
+Uber shows defiance following pressure from London's black cabs
+]]>
+			</title>
+			<link>
+				http://www.engadget.com/2014/05/27/uber-defiance/?ncid=rss_truncated
+			</link>
+			<description>
+<![CDATA[
+<img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/5100x3203+0+0/resize/630x396!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/adam/b1e59b3df7832563e7dfbaef9cebf2eb/143071205_thumbnail.jpeg"/> Uber's used to taking heat from traditional taxi organisations that'd rather the new breed not muscle in on their turf; including in London, where black cabbies are expected to protest against the car service next month. Even Hailo, which for years...
+]]>
+			</description>
+			<dc:creator>
+<![CDATA[ Jamie Rigg ]]>
+			</dc:creator>
+			<pubDate>%s</pubDate>
+			<guid isPermaLink="false">http://www.engadget.com/2014/05/27/uber-defiance/</guid>
+		</item>
+		<item>
+			<title>
+<![CDATA[
+Spotify warns Android users to update their apps following hack
+]]>
+			</title>
+			<link>
+				http://www.engadget.com/2014/05/27/spotify-warns-android-users-following-hack/?ncid=rss_truncated
+			</link>
+			<description>
+<![CDATA[
+<img src="http://o.aolcdn.com/hss/storage/midas/368f4270c5dad5583e2e20ec46e58d36/200167981/spotify-lead_thumbnail.jpg"/> It's not all good news over at Spotify HQ. The music streaming service says it's just investigated a security breach in which one unlucky user's account was hacked. Despite the apparently limited scale of the attack (at least compared to what...
+]]>
+			</description>
+			<dc:creator>
+<![CDATA[ Sharif Sakr ]]>
+			</dc:creator>
+			<pubDate>%s</pubDate>
+			<guid isPermaLink="false">
+				http://www.engadget.com/2014/05/27/spotify-warns-android-users-following-hack/
+			</guid>
+		</item>
+		<item>
+			<title>
+<![CDATA[
+Netflix's first show from the UK could be a £100m drama about the Queen
+]]>
+			</title>
+			<link>
+				http://www.engadget.com/2014/05/27/netflix-first-uk-show-the-queen/?ncid=rss_truncated
+			</link>
+			<description>
+<![CDATA[
+<img src="http://o.aolcdn.com/hss/storage/midas/46861e34efefa52bf9182a1c7d0502c5/200167171/thequeen_thumbnail.jpg"/> Netflix is going big on original programming: House of Cards and Orange Is The New Black are proof of that. However, no such content has so far come out of the UK. That could be about to change, after the streaming giant reportedly beat both the BBC...
+]]>
+			</description>
+			<dc:creator>
+<![CDATA[ Matt Brian ]]>
+			</dc:creator>
+			<pubDate>%s</pubDate>
+			<guid isPermaLink="false">
+				http://www.engadget.com/2014/05/27/netflix-first-uk-show-the-queen/
+			</guid>
+		</item>
+		<item>
+			<title>
+<![CDATA[
+Iranian court summons Mark Zuckerberg to answer privacy concerns
+]]>
+			</title>
+			<link>
+				http://www.engadget.com/2014/05/27/iran-court-summons-facebook-ceo/?ncid=rss_truncated
+			</link>
+			<description>
+<![CDATA[
+<img src="http://o.aolcdn.com/hss/storage/midas/5b0c0f3081f2c46ccd6a9151d15e55ef/200167730/iran-flag_thumbnail.jpg"/> We've got a feeling that Mark Zuckerberg will, regretfully, be unable to accept this particular foreign invitation -- especially after all the recent name-calling that's been coming out of Iran. Nevertheless, a court in the south of that country has...
+]]>
+			</description>
+			<dc:creator>
+<![CDATA[ Sharif Sakr ]]>
+			</dc:creator>
+			<pubDate>%s</pubDate>
+			<guid isPermaLink="false">
+				http://www.engadget.com/2014/05/27/iran-court-summons-facebook-ceo/
+			</guid>
+		</item>
+		<item>
+			<title>
+<![CDATA[ Watch Dogs: The Joystiq Review ]]>
+			</title>
+			<link>
+				http://www.engadget.com/2014/05/27/watch-dogs-the-joystiq-review/?ncid=rss_truncated
+			</link>
+			<description>
+<![CDATA[
+<img src="http://o.aolcdn.com/hss/storage/midas/7b0286606b1779b4b205ad4dd2fd013b/200167177/watchdogs_630pxhedimg_review_thumbnail.jpg"/> The advanced technology in Watch Dogs is not just indistinguishable from magic – it IS magic. The game would have you believe you're the world's most powerful hacker, bending surveillance cameras, traffic control and all manner of personal...
+]]>
+			</description>
+			<dc:creator>
+<![CDATA[ Ludwig Kietzmann ]]>
+			</dc:creator>
+			<pubDate>%s</pubDate>
+			<guid isPermaLink="false">
+				http://www.engadget.com/2014/05/27/watch-dogs-the-joystiq-review/
+			</guid>
+		</item>
+	</channel>
+</rss>

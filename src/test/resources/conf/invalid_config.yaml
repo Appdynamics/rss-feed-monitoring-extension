@@ -1,0 +1,6 @@
+subscriptions:
+  - url: "www.engadget.com/rss.xml"
+    disp: Endgadget
+
+metricPrefix:  "Custom Metrics|RSS Feed|"
+

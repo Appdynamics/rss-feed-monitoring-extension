@@ -1,0 +1,6 @@
+subscriptions:
+  - url: "test-rss.xml"
+    displayName: TestRSS
+
+metricPrefix:  "Custom Metrics|RSS Feed|"
+

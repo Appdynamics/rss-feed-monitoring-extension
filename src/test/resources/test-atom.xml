@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>tag:theregister.co.uk,2005:feed/theregister.co.uk/science/special_projects_bureau/</id>
+  <title>The Register - Science: SPB</title>
+  <link rel="self" type="application/atom+xml" href="http://www.theregister.co.uk/science/special_projects_bureau/headlines.atom"/>
+  <link rel="alternate" type="text/html" href="http://www.theregister.co.uk/science/special_projects_bureau/"/>
+  <rights>Copyright Â© 2014, Situation Publishing</rights>
+  <author>
+    <name>Team Register</name>
+    <email>webmaster@theregister.co.uk</email>
+    <uri>http://www.theregister.co.uk/odds/about/contact/</uri>
+  </author>
+  <icon>http://www.theregister.co.uk/Design/graphics/icons/favicon.png</icon>
+  <subtitle>Biting the hand that feeds IT â€” sci/tech news and views for the world</subtitle>
+  <logo>http://www.theregister.co.uk/Design/graphics/Reg_default/The_Register_r.png</logo>
+  <updated>2014-05-28T08:51:25Z</updated>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story/2014/05/28/box_o_copter/</id>
+    <updated>%s</updated>
+    <author>
+      <name>Lester Haines</name>
+      <uri>http://search.theregister.co.uk/?author=LesterHaines</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2014/05/28/box_o_copter/"/>
+    <title type="html">US sheddies knock up flying plastic toolbox</title>
+    <summary type="html"><![CDATA[I finally jumped off the cliff, and migrated hayobethlehem.nl to Wordpress. But why? I hear you ask.]]></summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story/2014/05/23/balloon_burst_vid/</id>
+    <updated>%s</updated>
+    <author>
+      <name>Lester Haines</name>
+      <uri>http://search.theregister.co.uk/?author=LesterHaines</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2014/05/23/balloon_burst_vid/"/>
+    <title type="html">Beautiful balloon burst caught on camera</title>
+    <summary type="html"><![CDATA[I finally jumped off the cliff, and migrated hayobethlehem.nl to Wordpress. But why? I hear you ask.]]></summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story/2014/05/23/drone_flight_fine/</id>
+    <updated>%s</updated>
+    <author>
+      <name>Lester Haines</name>
+      <uri>http://search.theregister.co.uk/?author=LesterHaines</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2014/05/23/drone_flight_fine/"/>
+    <title type="html">French teen fined for illegal drone flight</title>
+    <summary type="html"><![CDATA[I finally jumped off the cliff, and migrated hayobethlehem.nl to Wordpress. But why? I hear you ask.]]></summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story/2014/05/22/edge_research_lab/</id>
+    <updated>%s</updated>
+    <author>
+      <name>Lester Haines</name>
+      <uri>http://search.theregister.co.uk/?author=LesterHaines</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2014/05/22/edge_research_lab/"/>
+    <title type="html">&lt;i&gt;El Reg&lt;/i&gt; chats with stormchasing Edge Research Lab</title>
+    <summary type="html"><![CDATA[I finally jumped off the cliff, and migrated hayobethlehem.nl to Wordpress. But why? I hear you ask.]]></summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story/2014/05/21/carrotcopter/</id>
+    <updated>%s</updated>
+    <author>
+      <name>Lester Haines</name>
+      <uri>http://search.theregister.co.uk/?author=LesterHaines</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2014/05/21/carrotcopter/"/>
+    <title type="html">Scoff ye not: Chap carves crunchy carrot-copter</title>
+    <summary type="html"><![CDATA[I finally jumped off the cliff, and migrated hayobethlehem.nl to Wordpress. But why? I hear you ask.]]></summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story/2014/05/16/nasa_ldsd_test/</id>
+    <updated>%s</updated>
+    <author>
+      <name>Lester Haines</name>
+      <uri>http://search.theregister.co.uk/?author=LesterHaines</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2014/05/16/nasa_ldsd_test/"/>
+    <title type="html">NASA preps flying saucer ballocket flight</title>
+    <summary type="html"><![CDATA[I finally jumped off the cliff, and migrated hayobethlehem.nl to Wordpress. But why? I hear you ask.]]></summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story/2014/05/16/brit_inventor_retractable_wolverine_claws/</id>
+    <updated>%s</updated>
+    <author>
+      <name>Brid-Aine Parnell</name>
+      <uri>http://search.theregister.co.uk/?author=Brid-AineParnell</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2014/05/16/brit_inventor_retractable_wolverine_claws/"/>
+    <title type="html">Time-rich Brit boffin demos DIY crazytech WOLVERINE talons</title>
+    <summary type="html"><![CDATA[I finally jumped off the cliff, and migrated hayobethlehem.nl to Wordpress. But why? I hear you ask.]]></summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story/2014/05/16/portland_swimming_pool/</id>
+    <updated>%s</updated>
+    <author>
+      <name>Lester Haines</name>
+      <uri>http://search.theregister.co.uk/?author=LesterHaines</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2014/05/16/portland_swimming_pool/"/>
+    <title type="html">Urinating teen polluted 57 Olympic-sized swimming pools - cops</title>
+    <summary type="html"><![CDATA[I finally jumped off the cliff, and migrated hayobethlehem.nl to Wordpress. But why? I hear you ask.]]></summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story/2014/05/15/printed_shark_skin/</id>
+    <updated>%s</updated>
+    <author>
+      <name>Lester Haines</name>
+      <uri>http://search.theregister.co.uk/?author=LesterHaines</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2014/05/15/printed_shark_skin/"/>
+    <title type="html">Boffins 3D-print biomimetic shark skin</title>
+    <summary type="html"><![CDATA[I finally jumped off the cliff, and migrated hayobethlehem.nl to Wordpress. But why? I hear you ask.]]></summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story/2014/05/14/mutts_nuts_dictionary/</id>
+    <updated>%s</updated>
+    <author>
+      <name>Lester Haines</name>
+      <uri>http://search.theregister.co.uk/?author=LesterHaines</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2014/05/14/mutts_nuts_dictionary/"/>
+    <title type="html">Our &lt;i&gt;Reg&lt;/i&gt; reader 'mutt's nuts' dictionary is &lt;i&gt;le chien's biens&lt;/i&gt;</title>
+    <summary type="html"><![CDATA[I finally jumped off the cliff, and migrated hayobethlehem.nl to Wordpress. But why? I hear you ask.]]></summary>
+  </entry>
+
+</feed>
