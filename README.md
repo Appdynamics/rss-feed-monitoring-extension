@@ -23,8 +23,7 @@ This extension only works with standalone machine agent.
 4. Restart the Machine Agent.
 
 ## config.yaml
-**Note: Please avoid using tab (\t) when editing yaml files. You may want to validate the yaml file using a [yaml validator](http://yamllint.com/).
-**
+**Note: Please avoid using tab (\t) when editing yaml files. You may want to validate the yaml file using a [yaml validator](http://yamllint.com/).**
 
 | Param | Description |
 | ----- | ----- |
@@ -32,8 +31,7 @@ This extension only works with standalone machine agent.
 | displayName | The display name for this feed. If not specified, domain name is used by default.|
 | metricPrefix | The path prefix for viewing metrics in the metric browser. Default is "Custom Metrics|RSS Feed|"|
 
-**To monitor multiple feeds, add a new set of url and displayName, preceded by - (dash) for each feed, see example below:
-**
+**To monitor multiple feeds, add a new set of url and displayName, preceded by - (dash) for each feed, see example below:**
 
 ~~~~
 subscriptions:
