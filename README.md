@@ -29,7 +29,7 @@ This extension only works with standalone machine agent.
 | ----- | ----- |
 | url | The full feed url, e.g. http://www.engadget.com/rss.xml  |
 | displayName | The display name for this feed. If not specified, domain name is used by default.|
-| metricPrefix | The path prefix for viewing metrics in the metric browser. Default is "Custom Metrics|RSS Feed|"|
+| metricPrefix | The path prefix for viewing metrics in the metric browser. Default is "Custom Metrics\|RSS Feed\|"|
 
 **To monitor multiple feeds, add a new set of url and displayName, preceded by - (dash) for each feed, see example below:**
 
